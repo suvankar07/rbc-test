@@ -1,2 +1,2 @@
 # rbc-test
-Repository For RBC Test
+The repository containing RBC test codes
